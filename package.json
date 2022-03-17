@@ -1,7 +1,7 @@
 {
-  "homepage": "https://tarouurashima.github.io/testsite/",
+  "homepage": "https://tarouurashima.github.io/test/",
   "name": "moon2.finance",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "dependencies": {
     "@ethersproject/providers": "^5.4.1",
